@@ -1,4 +1,5 @@
-﻿using RentIt.View.Pembayaran_2;
+﻿using RentIt.View.Pembatalan_1;
+using RentIt.View.Pembayaran_2;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,7 +18,7 @@ namespace RentIt
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(true);
-            Application.Run(new MainPageView());
+            Application.Run(new Pembatalan1View());
         }
     }
 }

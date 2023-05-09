@@ -25,3 +25,17 @@ C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal_KPL\RentIt\RentIt\ob
 C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.View.Pembayaran_2.pembayaran2View.resources
 C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.csproj.CopyComplete
 C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal_KPL\RentIt\RentIt\bin\Debug\EliteGlobal_homepage.pdb
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\Folder Code Baru\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.csproj.AssemblyReference.cache
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\Folder Code Baru\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.csproj.SuggestedBindingRedirects.cache
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\Folder Code Baru\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.LoginView.resources
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\Folder Code Baru\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.MainPageView.resources
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\Folder Code Baru\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.Properties.Resources.resources
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\Folder Code Baru\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.View.Pembatalan_1.Pembatalan1View.resources
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\Folder Code Baru\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.View.Pembayaran_2.pembayaran2View.resources
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\Folder Code Baru\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.csproj.GenerateResource.cache
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\Folder Code Baru\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.csproj.CoreCompileInputs.cache
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\Folder Code Baru\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.exe
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\Folder Code Baru\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.pdb
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\Folder Code Baru\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\bin\Debug\RentIt.exe.config
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\Folder Code Baru\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\bin\Debug\RentIt.exe
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\TUBES\Folder Code Baru\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\bin\Debug\RentIt.pdb
