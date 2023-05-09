@@ -72,6 +72,12 @@
     <Compile Include="Util\TransparentLabel.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="View\Pembayaran 1\pembayaran1View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Pembayaran 1\pembayaran1View.Designer.cs">
+      <DependentUpon>pembayaran1View.cs</DependentUpon>
+    </Compile>
     <Compile Include="View\Pembayaran 2\pembayaran2View.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -94,6 +100,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="View\Pembayaran 1\pembayaran1View.resx">
+      <DependentUpon>pembayaran1View.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="View\Pembayaran 2\pembayaran2View.resx">
       <DependentUpon>pembayaran2View.cs</DependentUpon>
     </EmbeddedResource>
