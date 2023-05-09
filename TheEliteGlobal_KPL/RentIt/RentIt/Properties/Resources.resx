@@ -121,9 +121,6 @@
   <data name="mic2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mic2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="logo2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\logo2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="kelas" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\kelas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -136,20 +133,26 @@
   <data name="insta" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\insta.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="olahraga1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\olahraga1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="olahraga2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\olahraga2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GEDUNG KULIAH UMUM" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GEDUNG KULIAH UMUM.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="gedung1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\gedung1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Untitled design (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Untitled design (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Burger" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burger.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="mic" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="olahraga1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\olahraga1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="logo2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="kelas1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\kelas1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -199,7 +202,10 @@
   <data name="Linked" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Linked.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Burger" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Burger.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Untitled design (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled design (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="52" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\52.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
