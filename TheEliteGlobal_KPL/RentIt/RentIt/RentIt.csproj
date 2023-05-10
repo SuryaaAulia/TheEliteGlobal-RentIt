@@ -84,12 +84,6 @@
     <Compile Include="View\Pembayaran 2\pembayaran2View.Designer.cs">
       <DependentUpon>pembayaran2View.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\RentPage\rentPageView.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="View\RentPage\rentPageView.Designer.cs">
-      <DependentUpon>rentPageView.cs</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="View\Login\LoginView.resx">
       <DependentUpon>LoginView.cs</DependentUpon>
     </EmbeddedResource>
@@ -111,9 +105,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="View\Pembayaran 2\pembayaran2View.resx">
       <DependentUpon>pembayaran2View.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="View\RentPage\rentPageView.resx">
-      <DependentUpon>rentPageView.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -215,10 +206,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Burger.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Resources\52.jpg" />
-    <Content Include="Resources\GEDUNG KULIAH UMUM.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
