@@ -160,9 +160,7 @@ namespace RentIt
                 errorMsgUser.Text = ex.Message;
                 errorMsgUser.Visible = true;
             }
-            this.Hide();
-            EliteGlobal_homepage.MenuControl.Gedung gedungView = new EliteGlobal_homepage.MenuControl.Gedung();
-            gedungView.Show();
+            
 
         }
 

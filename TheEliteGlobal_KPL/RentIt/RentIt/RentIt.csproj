@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="View\FascilityPage\FsacilityPageView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FascilityPage\FsacilityPageView.Designer.cs">
+      <DependentUpon>FsacilityPageView.cs</DependentUpon>
+    </Compile>
     <Compile Include="View\MainPage\MainPageView.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,6 +84,9 @@
     <Compile Include="View\Pembayaran 2\pembayaran2View.Designer.cs">
       <DependentUpon>pembayaran2View.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="View\FascilityPage\FsacilityPageView.resx">
+      <DependentUpon>FsacilityPageView.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="View\Login\LoginView.resx">
       <DependentUpon>LoginView.cs</DependentUpon>
     </EmbeddedResource>

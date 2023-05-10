@@ -25,3 +25,17 @@ C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal_KPL\RentIt\RentIt\ob
 C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.View.Pembayaran_2.pembayaran2View.resources
 C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.csproj.CopyComplete
 C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal_KPL\RentIt\RentIt\bin\Debug\EliteGlobal_homepage.pdb
+C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal-RentIt\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.csproj.AssemblyReference.cache
+C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal-RentIt\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.csproj.SuggestedBindingRedirects.cache
+C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal-RentIt\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.View.FascilityPage.FsacilityPageView.resources
+C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal-RentIt\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.LoginView.resources
+C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal-RentIt\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.MainPageView.resources
+C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal-RentIt\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.Properties.Resources.resources
+C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal-RentIt\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.View.Pembayaran_2.pembayaran2View.resources
+C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal-RentIt\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.csproj.GenerateResource.cache
+C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal-RentIt\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.csproj.CoreCompileInputs.cache
+C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal-RentIt\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.exe
+C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal-RentIt\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.pdb
+C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal-RentIt\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\bin\Debug\RentIt.exe.config
+C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal-RentIt\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\bin\Debug\RentIt.exe
+C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal-RentIt\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\bin\Debug\RentIt.pdb
