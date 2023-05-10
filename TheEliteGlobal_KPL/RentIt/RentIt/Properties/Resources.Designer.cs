@@ -103,6 +103,16 @@ namespace RentIt.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap GEDUNG_KULIAH_UMUM {
+            get {
+                object obj = ResourceManager.GetObject("GEDUNG KULIAH UMUM", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap gedung1 {
             get {
                 object obj = ResourceManager.GetObject("gedung1", resourceCulture);
@@ -276,6 +286,26 @@ namespace RentIt.Properties {
         internal static System.Drawing.Bitmap PP {
             get {
                 object obj = ResourceManager.GetObject("PP", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tult {
+            get {
+                object obj = ResourceManager.GetObject("tult", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tult_crop {
+            get {
+                object obj = ResourceManager.GetObject("tult_crop", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

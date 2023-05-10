@@ -261,11 +261,11 @@
             this.SignIn.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.SignIn.AutoSize = true;
             this.SignIn.BackColor = System.Drawing.Color.IndianRed;
-            this.SignIn.Font = new System.Drawing.Font("Open Sans SemiBold", 12F, System.Drawing.FontStyle.Bold);
+            this.SignIn.Font = new System.Drawing.Font("Open Sans Semibold", 12F, System.Drawing.FontStyle.Bold);
             this.SignIn.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.SignIn.Location = new System.Drawing.Point(498, 168);
             this.SignIn.Name = "SignIn";
-            this.SignIn.Size = new System.Drawing.Size(61, 23);
+            this.SignIn.Size = new System.Drawing.Size(61, 22);
             this.SignIn.TabIndex = 7;
             this.SignIn.Text = "Sign In";
             this.SignIn.Click += new System.EventHandler(this.SignIn_Click);
@@ -297,7 +297,7 @@
             this.kontak.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.kontak.Location = new System.Drawing.Point(852, 395);
             this.kontak.Name = "kontak";
-            this.kontak.Size = new System.Drawing.Size(197, 60);
+            this.kontak.Size = new System.Drawing.Size(197, 55);
             this.kontak.TabIndex = 5;
             this.kontak.Text = "Contact Us\r\n\r\nE-Mail: clove@telkomuniversity.ac.id\r\nWhatsApp Khusus Dosen: +62 82" +
     "1-1666-3563\r\nWhatsApp Khusus Mahasiswa: +62 812-2200-1813";
@@ -367,10 +367,10 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Open Sans SemiBold", 10F, System.Drawing.FontStyle.Bold);
+            this.label2.Font = new System.Drawing.Font("Open Sans Semibold", 10F, System.Drawing.FontStyle.Bold);
             this.label2.Location = new System.Drawing.Point(23, 21);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(247, 20);
+            this.label2.Size = new System.Drawing.Size(247, 19);
             this.label2.TabIndex = 3;
             this.label2.Text = "Jenis Fasilitas Yang Bisa Anda Sewa";
             // 

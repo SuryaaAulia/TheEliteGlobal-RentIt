@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RentIt.View.Menu;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -159,10 +160,11 @@ namespace RentIt
             {
                 errorMsgUser.Text = ex.Message;
                 errorMsgUser.Visible = true;
+                this.Hide();
+                MenuView f2 = new MenuView();
+                f2.Show();
             }
-            this.Hide();
-            EliteGlobal_homepage.MenuControl.Gedung gedungView = new EliteGlobal_homepage.MenuControl.Gedung();
-            gedungView.Show();
+            
 
         }
 

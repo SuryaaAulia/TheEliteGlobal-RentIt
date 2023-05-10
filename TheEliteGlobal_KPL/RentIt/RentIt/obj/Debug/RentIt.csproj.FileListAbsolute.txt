@@ -25,3 +25,22 @@ C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal_KPL\RentIt\RentIt\ob
 C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.View.Pembayaran_2.pembayaran2View.resources
 C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.csproj.CopyComplete
 C:\Users\surya\Documents\KPL Praktikum\TUBES\TheEliteGlobal_KPL\RentIt\RentIt\bin\Debug\EliteGlobal_homepage.pdb
+D:\Coding\C#\renit\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.csproj.AssemblyReference.cache
+D:\Coding\C#\renit\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\renit\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.LoginView.resources
+D:\Coding\C#\renit\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.MainPageView.resources
+D:\Coding\C#\renit\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.Properties.Resources.resources
+D:\Coding\C#\renit\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.View.Pembayaran_2.pembayaran2View.resources
+D:\Coding\C#\renit\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.csproj.GenerateResource.cache
+D:\Coding\C#\renit\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.csproj.CoreCompileInputs.cache
+D:\Coding\C#\renit\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.exe
+D:\Coding\C#\renit\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.pdb
+D:\Coding\C#\renit\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\bin\Debug\RentIt.exe.config
+D:\Coding\C#\renit\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\bin\Debug\RentIt.exe
+D:\Coding\C#\renit\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\bin\Debug\RentIt.pdb
+D:\Coding\C#\renit\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\bin\Debug\Guna.UI2.dll
+D:\Coding\C#\renit\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.csproj.CopyComplete
+D:\Coding\C#\renit\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.CariGedungController.Kelas.resources
+D:\Coding\C#\renit\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.View.Menu.MenuView.resources
+D:\Coding\C#\renit\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.CariGedungController.Gedung.resources
+D:\Coding\C#\renit\TheEliteGlobal-RentIt\TheEliteGlobal_KPL\RentIt\RentIt\obj\Debug\RentIt.CariGedungController.Olahraga.resources
