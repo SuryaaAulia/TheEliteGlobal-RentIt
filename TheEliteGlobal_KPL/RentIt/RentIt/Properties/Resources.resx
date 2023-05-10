@@ -121,9 +121,6 @@
   <data name="mic2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mic2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="logo2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\logo2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="kelas" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\kelas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -135,6 +132,9 @@
   </data>
   <data name="insta" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\insta.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="olahraga1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\olahraga1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="olahraga2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\olahraga2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -148,8 +148,8 @@
   <data name="mic" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="olahraga1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\olahraga1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="logo2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="kelas1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\kelas1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -162,6 +162,9 @@
   </data>
   <data name="mic1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mic1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Burger" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burger.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Untitled design3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Untitled design3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -199,7 +202,7 @@
   <data name="Linked" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Linked.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Burger" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Burger.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="dunlut" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dunlut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

@@ -77,8 +77,9 @@
             this.topPanel.Controls.Add(this.home);
             this.topPanel.Dock = System.Windows.Forms.DockStyle.Top;
             this.topPanel.Location = new System.Drawing.Point(0, 0);
+            this.topPanel.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.topPanel.Name = "topPanel";
-            this.topPanel.Size = new System.Drawing.Size(1142, 43);
+            this.topPanel.Size = new System.Drawing.Size(1523, 53);
             this.topPanel.TabIndex = 0;
             this.topPanel.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
@@ -86,10 +87,11 @@
             // 
             this.logoTUTop.Dock = System.Windows.Forms.DockStyle.Right;
             this.logoTUTop.Image = global::RentIt.Properties.Resources.Logo_Telkom_University_potrait;
-            this.logoTUTop.Location = new System.Drawing.Point(1080, 0);
+            this.logoTUTop.Location = new System.Drawing.Point(1440, 0);
+            this.logoTUTop.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.logoTUTop.Name = "logoTUTop";
-            this.logoTUTop.Padding = new System.Windows.Forms.Padding(0, 0, 30, 0);
-            this.logoTUTop.Size = new System.Drawing.Size(62, 43);
+            this.logoTUTop.Padding = new System.Windows.Forms.Padding(0, 0, 40, 0);
+            this.logoTUTop.Size = new System.Drawing.Size(83, 53);
             this.logoTUTop.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.logoTUTop.TabIndex = 0;
             this.logoTUTop.TabStop = false;
@@ -98,7 +100,8 @@
             // 
             this.logoTop.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.logoTop.Image = global::RentIt.Properties.Resources.babi;
-            this.logoTop.Location = new System.Drawing.Point(523, 4);
+            this.logoTop.Location = new System.Drawing.Point(697, 5);
+            this.logoTop.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.logoTop.Name = "logoTop";
             this.logoTop.Size = new System.Drawing.Size(189, 36);
             this.logoTop.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -113,9 +116,11 @@
             this.facility.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.facility.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F);
             this.facility.Location = new System.Drawing.Point(111, 0);
+            this.facility.Location = new System.Drawing.Point(148, 0);
+            this.facility.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.facility.Name = "facility";
-            this.facility.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
-            this.facility.Size = new System.Drawing.Size(118, 43);
+            this.facility.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
+            this.facility.Size = new System.Drawing.Size(157, 53);
             this.facility.TabIndex = 2;
             this.facility.Text = "Facility";
             this.facility.UseVisualStyleBackColor = false;
@@ -128,9 +133,10 @@
             this.home.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.home.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F);
             this.home.Location = new System.Drawing.Point(0, 0);
+            this.home.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.home.Name = "home";
-            this.home.Padding = new System.Windows.Forms.Padding(30, 0, 0, 0);
-            this.home.Size = new System.Drawing.Size(111, 43);
+            this.home.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
+            this.home.Size = new System.Drawing.Size(148, 53);
             this.home.TabIndex = 1;
             this.home.Text = "Home";
             this.home.UseVisualStyleBackColor = true;
@@ -142,9 +148,10 @@
             this.mainText.BackColor = System.Drawing.Color.IndianRed;
             this.mainText.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold);
             this.mainText.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.mainText.Location = new System.Drawing.Point(130, 86);
+            this.mainText.Location = new System.Drawing.Point(173, 106);
+            this.mainText.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.mainText.Name = "mainText";
-            this.mainText.Size = new System.Drawing.Size(848, 82);
+            this.mainText.Size = new System.Drawing.Size(1131, 101);
             this.mainText.TabIndex = 1;
             this.mainText.Text = "SELAMAT DATANG, MAU SEWA FASILITAS?\nMASUK PAKAI AKUN SSO DULU YUK!";
             this.mainText.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -160,9 +167,10 @@
             this.bottomPanel.Controls.Add(this.instagram);
             this.bottomPanel.Controls.Add(this.facebook);
             this.bottomPanel.Controls.Add(this.logoBottom);
-            this.bottomPanel.Location = new System.Drawing.Point(0, 512);
+            this.bottomPanel.Location = new System.Drawing.Point(0, 630);
+            this.bottomPanel.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bottomPanel.Name = "bottomPanel";
-            this.bottomPanel.Size = new System.Drawing.Size(1142, 101);
+            this.bottomPanel.Size = new System.Drawing.Size(1523, 124);
             this.bottomPanel.TabIndex = 2;
             this.bottomPanel.Paint += new System.Windows.Forms.PaintEventHandler(this.panel3_Paint);
             // 
@@ -170,9 +178,10 @@
             // 
             this.twitter.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.twitter.Image = global::RentIt.Properties.Resources.twit;
-            this.twitter.Location = new System.Drawing.Point(1074, 39);
+            this.twitter.Location = new System.Drawing.Point(1432, 48);
+            this.twitter.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.twitter.Name = "twitter";
-            this.twitter.Size = new System.Drawing.Size(30, 28);
+            this.twitter.Size = new System.Drawing.Size(40, 34);
             this.twitter.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.twitter.TabIndex = 4;
             this.twitter.TabStop = false;
@@ -182,9 +191,10 @@
             // 
             this.linkedin.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.linkedin.Image = global::RentIt.Properties.Resources.Linked;
-            this.linkedin.Location = new System.Drawing.Point(1016, 39);
+            this.linkedin.Location = new System.Drawing.Point(1355, 48);
+            this.linkedin.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.linkedin.Name = "linkedin";
-            this.linkedin.Size = new System.Drawing.Size(30, 28);
+            this.linkedin.Size = new System.Drawing.Size(40, 34);
             this.linkedin.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.linkedin.TabIndex = 3;
             this.linkedin.TabStop = false;
@@ -194,9 +204,10 @@
             // 
             this.instagram.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.instagram.Image = global::RentIt.Properties.Resources.insta;
-            this.instagram.Location = new System.Drawing.Point(960, 39);
+            this.instagram.Location = new System.Drawing.Point(1280, 48);
+            this.instagram.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.instagram.Name = "instagram";
-            this.instagram.Size = new System.Drawing.Size(30, 28);
+            this.instagram.Size = new System.Drawing.Size(40, 34);
             this.instagram.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.instagram.TabIndex = 2;
             this.instagram.TabStop = false;
@@ -206,9 +217,10 @@
             // 
             this.facebook.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.facebook.Image = global::RentIt.Properties.Resources.face;
-            this.facebook.Location = new System.Drawing.Point(899, 39);
+            this.facebook.Location = new System.Drawing.Point(1199, 48);
+            this.facebook.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.facebook.Name = "facebook";
-            this.facebook.Size = new System.Drawing.Size(30, 28);
+            this.facebook.Size = new System.Drawing.Size(40, 34);
             this.facebook.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.facebook.TabIndex = 1;
             this.facebook.TabStop = false;
@@ -217,9 +229,10 @@
             // logoBottom
             // 
             this.logoBottom.Image = global::RentIt.Properties.Resources.babi;
-            this.logoBottom.Location = new System.Drawing.Point(12, 27);
+            this.logoBottom.Location = new System.Drawing.Point(16, 33);
+            this.logoBottom.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.logoBottom.Name = "logoBottom";
-            this.logoBottom.Size = new System.Drawing.Size(191, 50);
+            this.logoBottom.Size = new System.Drawing.Size(255, 62);
             this.logoBottom.TabIndex = 0;
             this.logoBottom.TabStop = false;
             // 
@@ -236,10 +249,11 @@
             this.mainPanel.Controls.Add(this.mainText);
             this.mainPanel.Controls.Add(this.backgroundPic);
             this.mainPanel.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.mainPanel.Location = new System.Drawing.Point(0, 43);
+            this.mainPanel.Location = new System.Drawing.Point(0, 53);
+            this.mainPanel.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.mainPanel.Name = "mainPanel";
-            this.mainPanel.Padding = new System.Windows.Forms.Padding(42, 11, 42, 130);
-            this.mainPanel.Size = new System.Drawing.Size(1142, 613);
+            this.mainPanel.Padding = new System.Windows.Forms.Padding(56, 14, 56, 160);
+            this.mainPanel.Size = new System.Drawing.Size(1523, 754);
             this.mainPanel.TabIndex = 1;
             this.mainPanel.Paint += new System.Windows.Forms.PaintEventHandler(this.panel2_Paint);
             // 
@@ -249,9 +263,11 @@
             this.loginMssg.AutoSize = true;
             this.loginMssg.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F);
             this.loginMssg.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.loginMssg.Location = new System.Drawing.Point(359, 215);
+            this.loginMssg.Location = new System.Drawing.Point(479, 265);
+            this.loginMssg.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.loginMssg.Name = "loginMssg";
             this.loginMssg.Size = new System.Drawing.Size(145, 13);
+            this.loginMssg.Size = new System.Drawing.Size(166, 15);
             this.loginMssg.TabIndex = 8;
             this.loginMssg.Text = "Log in using your account on:";
             this.loginMssg.Click += new System.EventHandler(this.label4_Click);
@@ -263,9 +279,11 @@
             this.SignIn.BackColor = System.Drawing.Color.IndianRed;
             this.SignIn.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
             this.SignIn.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.SignIn.Location = new System.Drawing.Point(498, 168);
+            this.SignIn.Location = new System.Drawing.Point(664, 207);
+            this.SignIn.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.SignIn.Name = "SignIn";
             this.SignIn.Size = new System.Drawing.Size(66, 20);
+            this.SignIn.Size = new System.Drawing.Size(80, 25);
             this.SignIn.TabIndex = 7;
             this.SignIn.Text = "Sign In";
             this.SignIn.Click += new System.EventHandler(this.SignIn_Click);
@@ -278,9 +296,10 @@
             this.SignInBut.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.SignInBut.ForeColor = System.Drawing.SystemColors.ControlDark;
             this.SignInBut.Image = global::RentIt.Properties.Resources.Untitled_design2;
-            this.SignInBut.Location = new System.Drawing.Point(355, 238);
+            this.SignInBut.Location = new System.Drawing.Point(473, 293);
+            this.SignInBut.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.SignInBut.Name = "SignInBut";
-            this.SignInBut.Size = new System.Drawing.Size(491, 55);
+            this.SignInBut.Size = new System.Drawing.Size(655, 68);
             this.SignInBut.TabIndex = 6;
             this.SignInBut.Text = "Connect with office365";
             this.SignInBut.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -295,7 +314,8 @@
             this.kontak.BackColor = System.Drawing.Color.White;
             this.kontak.Font = new System.Drawing.Font("Microsoft Sans Serif", 6F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.kontak.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.kontak.Location = new System.Drawing.Point(852, 395);
+            this.kontak.Location = new System.Drawing.Point(1136, 486);
+            this.kontak.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.kontak.Name = "kontak";
             this.kontak.Size = new System.Drawing.Size(177, 45);
             this.kontak.TabIndex = 5;
@@ -309,10 +329,11 @@
             this.alamat.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.alamat.Font = new System.Drawing.Font("Microsoft Sans Serif", 6F);
             this.alamat.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.alamat.Location = new System.Drawing.Point(42, 418);
+            this.alamat.Location = new System.Drawing.Point(56, 504);
+            this.alamat.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.alamat.Name = "alamat";
-            this.alamat.Padding = new System.Windows.Forms.Padding(15, 0, 0, 20);
-            this.alamat.Size = new System.Drawing.Size(158, 65);
+            this.alamat.Padding = new System.Windows.Forms.Padding(20, 0, 0, 25);
+            this.alamat.Size = new System.Drawing.Size(226, 90);
             this.alamat.TabIndex = 4;
             this.alamat.Text = "Address\r\n\r\nGedung Panehan Pasca Sarjana Lantai 1,\r\nJl. Telekomunikasi Terusan Bua" +
     "h Batu,\r\nBandung - 40257, Indonesia";
@@ -325,9 +346,10 @@
             this.panelFasil.Controls.Add(this.gedung);
             this.panelFasil.Controls.Add(this.kelas);
             this.panelFasil.Controls.Add(this.label2);
-            this.panelFasil.Location = new System.Drawing.Point(252, 299);
+            this.panelFasil.Location = new System.Drawing.Point(336, 368);
+            this.panelFasil.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panelFasil.Name = "panelFasil";
-            this.panelFasil.Size = new System.Drawing.Size(654, 185);
+            this.panelFasil.Size = new System.Drawing.Size(872, 228);
             this.panelFasil.TabIndex = 3;
             this.panelFasil.Paint += new System.Windows.Forms.PaintEventHandler(this.roundedPanel1_Paint);
             // 
@@ -335,9 +357,10 @@
             // 
             this.olahraga.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.olahraga.Image = global::RentIt.Properties.Resources.olahraga2;
-            this.olahraga.Location = new System.Drawing.Point(476, 55);
+            this.olahraga.Location = new System.Drawing.Point(635, 68);
+            this.olahraga.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.olahraga.Name = "olahraga";
-            this.olahraga.Size = new System.Drawing.Size(76, 72);
+            this.olahraga.Size = new System.Drawing.Size(101, 89);
             this.olahraga.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.olahraga.TabIndex = 6;
             this.olahraga.TabStop = false;
@@ -346,9 +369,10 @@
             // 
             this.gedung.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.gedung.Image = global::RentIt.Properties.Resources.gedung3;
-            this.gedung.Location = new System.Drawing.Point(106, 53);
+            this.gedung.Location = new System.Drawing.Point(141, 65);
+            this.gedung.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.gedung.Name = "gedung";
-            this.gedung.Size = new System.Drawing.Size(76, 72);
+            this.gedung.Size = new System.Drawing.Size(101, 89);
             this.gedung.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.gedung.TabIndex = 5;
             this.gedung.TabStop = false;
@@ -357,9 +381,10 @@
             // 
             this.kelas.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.kelas.Image = global::RentIt.Properties.Resources.Untitled_design3;
-            this.kelas.Location = new System.Drawing.Point(284, 53);
+            this.kelas.Location = new System.Drawing.Point(379, 65);
+            this.kelas.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.kelas.Name = "kelas";
-            this.kelas.Size = new System.Drawing.Size(76, 72);
+            this.kelas.Size = new System.Drawing.Size(101, 89);
             this.kelas.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.kelas.TabIndex = 4;
             this.kelas.TabStop = false;
@@ -371,6 +396,10 @@
             this.label2.Location = new System.Drawing.Point(23, 21);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(274, 17);
+            this.label2.Location = new System.Drawing.Point(31, 26);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(322, 20);
             this.label2.TabIndex = 3;
             this.label2.Text = "Jenis Fasilitas Yang Bisa Anda Sewa";
             // 
@@ -378,9 +407,10 @@
             // 
             this.backgroundPic.Dock = System.Windows.Forms.DockStyle.Fill;
             this.backgroundPic.Image = global::RentIt.Properties.Resources.pic1;
-            this.backgroundPic.Location = new System.Drawing.Point(42, 11);
+            this.backgroundPic.Location = new System.Drawing.Point(56, 14);
+            this.backgroundPic.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.backgroundPic.Name = "backgroundPic";
-            this.backgroundPic.Size = new System.Drawing.Size(1058, 472);
+            this.backgroundPic.Size = new System.Drawing.Size(1411, 580);
             this.backgroundPic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.backgroundPic.TabIndex = 0;
             this.backgroundPic.TabStop = false;
@@ -388,11 +418,12 @@
             // 
             // MainPageView
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1142, 656);
+            this.ClientSize = new System.Drawing.Size(1523, 807);
             this.Controls.Add(this.mainPanel);
             this.Controls.Add(this.topPanel);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "MainPageView";
             this.Text = "`";
             this.Load += new System.EventHandler(this.Form1_Load);

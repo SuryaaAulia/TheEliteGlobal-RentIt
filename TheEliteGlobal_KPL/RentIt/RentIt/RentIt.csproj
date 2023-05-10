@@ -77,6 +77,11 @@
     </Compile>
     <Compile Include="View\Pembayaran 1\pembayaran1View.Designer.cs">
       <DependentUpon>pembayaran1View.cs</DependentUpon>
+    <Compile Include="View\Pembatalan 1\Pembatalan1View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Pembatalan 1\Pembatalan1View.Designer.cs">
+      <DependentUpon>Pembatalan1View.cs</DependentUpon>
     </Compile>
     <Compile Include="View\Pembayaran 2\pembayaran2View.cs">
       <SubType>Form</SubType>
@@ -102,6 +107,8 @@
     </Compile>
     <EmbeddedResource Include="View\Pembayaran 1\pembayaran1View.resx">
       <DependentUpon>pembayaran1View.cs</DependentUpon>
+    <EmbeddedResource Include="View\Pembatalan 1\Pembatalan1View.resx">
+      <DependentUpon>Pembatalan1View.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\Pembayaran 2\pembayaran2View.resx">
       <DependentUpon>pembayaran2View.cs</DependentUpon>
@@ -206,6 +213,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Burger.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dunlut.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

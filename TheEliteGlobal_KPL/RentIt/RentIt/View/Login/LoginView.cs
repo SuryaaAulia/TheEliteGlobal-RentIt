@@ -160,6 +160,7 @@ namespace RentIt
                 errorMsgUser.Text = ex.Message;
                 errorMsgUser.Visible = true;
             }
+
         }
 
         private void passInput_TextChanged(object sender, EventArgs e)
